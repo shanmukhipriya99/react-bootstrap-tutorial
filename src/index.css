@@ -5,9 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(./assets/Images/bg-pattern.png), #7b4397;
+  /* background: url(./assets/Images/bg-pattern.png), #7b4397;  */
   background: url(./assets/Images/bg-pattern.png),
-    linear-gradient(to left, #7b4397, #dc2430);
+    linear-gradient(to left, rgb(206, 87, 87), rgb(56, 163, 163));
   
 }
 
