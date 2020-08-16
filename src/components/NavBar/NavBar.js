@@ -18,7 +18,7 @@ function NavBar() {
             <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
             <NavDropdown.Divider />
             <NavDropdown.Item href="#action/3.4">
-              Separated link
+              Separated link <img src={require("../../assets/Images/4.png")} alt="image" style={{width: '10px'}}/>
             </NavDropdown.Item>
           </NavDropdown>
         </Nav>
